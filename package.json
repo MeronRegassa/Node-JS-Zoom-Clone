@@ -1,0 +1,19 @@
+{
+  "name": "zoom-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Meron",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "peer": "^1.0.0",
+    "socket.io": "^4.6.1",
+    "uuid": "^9.0.0"
+  }
+}
